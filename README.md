@@ -93,7 +93,7 @@ The graphical interface allows the user to load the synchronised CSV file, load 
 
 If this software is used in academic work, please cite it as:
 
-> Mena Hoekendijk, X. (2026). *BiomechSync Toolkit: Python toolkit for synchronising, interpolating and visualising biomechanical signals*. GitHub repository.
+> Mena Hoekendijk, X. (2026). *BiomechSync Toolkit: Python toolkit for synchronising, interpolating and visualising biomechanical signals* [Computer software]. GitHub. https://github.com/hoekendijk7-maker/biomechsync-toolkit
 
 ## Author
 
