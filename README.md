@@ -1,6 +1,6 @@
 # BiomechSync Toolkit
 
-**BiomechSync Toolkit** is a Python-based research prototype for synchronising, interpolating and visualising biomechanical signals from ForceDecks (VALD), EMG (Deslys) and video recordings.
+**BiomechSync Toolkit** is a Python-based research prototype for synchronising, interpolating and visualising biomechanical signals from ForceDecks (VALD), EMG (Delsys) and video recordings.
 
 The toolkit was developed in an academic laboratory context to support biomechanical data analysis in sport science research projects.
 
